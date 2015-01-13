@@ -1,0 +1,17 @@
+.idea
+*.iml
+.classpath
+.npmignore
+*~
+.DS_Store
+.tmp/
+build/
+node_modules/
+bower_components/
+.grunt/
+.sass-cache/
+_UnitSpecRunner.html
+svtibuilder_rsa
+.project
+.settings/
+*.log
